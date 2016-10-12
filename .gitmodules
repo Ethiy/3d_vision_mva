@@ -1,3 +1,6 @@
 [submodule "Panorama"]
 	path = Panorama
 	url = https://github.com/Ethiy/Panorama
+[submodule "Fundamental"]
+	path = Fundamental
+	url = https://github.com/Ethiy/Fundamental
